@@ -1,7 +1,11 @@
 aid: jones-financial
-url: https://raw.githubusercontent.com/api-evangelist/jones-financial/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/jones-financial/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.jones-financial.com
+description: >-
+  The Jones Financial Companies is the parent company of Edward Jones, a financial
+  services firm that serves individual investors through a network of branch offices.
