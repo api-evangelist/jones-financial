@@ -1,11 +1,25 @@
-# Jones Financial
+# Jones Financial Companies (jones-financial)
 
-This is a repository for tracking the APIs, SDKs, and other developer resources for Jones Financial.
+The Jones Financial Companies is the parent company of Edward Jones, a financial services firm that serves individual investors through a network of branch offices. The firm does not currently publish a public developer program or APIs.
+
+**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/jones-financial/refs/heads/main/apis.yml)
+
+## Tags
+- Financial Services
+- Investment Management
+- Wealth Management
+
+## Timestamps
+- **Created:** 2026-03-24
+- **Modified:** 2026-04-28
 
 ## APIs
 
-No APIs have been documented yet. Check back for updates.
+No public APIs have been documented. Check back for updates.
 
-## Properties
+## Common Properties
+- [Website](https://www.edwardjones.com)
 
-- [Website](https://www.jones-financial.com)
+## Maintainers
+**FN:** Kin Lane
+**Email:** kin@apievangelist.com
