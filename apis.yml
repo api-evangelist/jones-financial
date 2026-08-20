@@ -15,6 +15,10 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jones-financial.png
 tags:
+  - Financial-Services
+  - Investment Management
+  - Wealth Management
+tags_raw:
   - Financial Services
   - Investment Management
   - Wealth Management
