@@ -1,7 +1,9 @@
 ---
 title: Artificial Intelligence in Financial Services
 url: https://reports.weforum.org/docs/WEF_Artificial_Intelligence_in_Financial_Services_2025.pdf
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jones Financial" press release artificial intelligence'
 position: 5
 source: serpapi-google

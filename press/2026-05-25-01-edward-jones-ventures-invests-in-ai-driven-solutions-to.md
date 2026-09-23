@@ -1,7 +1,9 @@
 ---
 title: Edward Jones Ventures invests in AI-driven solutions to ...
 url: https://www.prnewswire.com/news-releases/edward-jones-ventures-invests-in-ai-driven-solutions-to-help-families-navigate-lifes-biggest-financial-decisions-302676814.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jones Financial" press release artificial intelligence'
 position: 1
 source: serpapi-google

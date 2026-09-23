@@ -1,7 +1,9 @@
 ---
 title: Edward Jones Ventures is entering year two with major ...
 url: https://www.facebook.com/edwardjones/posts/edward-jones-ventures-is-entering-year-two-with-major-momentum-today-we-announce/948312590858382/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jones Financial" press release artificial intelligence'
 position: 2
 source: serpapi-google

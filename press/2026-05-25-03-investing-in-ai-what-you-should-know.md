@@ -1,7 +1,9 @@
 ---
 title: 'Investing in AI: What you should know'
 url: https://www.edwardjones.com/us-en/market-news-insights/guidance-perspective/ai-investing-ejp
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jones Financial" press release artificial intelligence'
 position: 3
 source: serpapi-google

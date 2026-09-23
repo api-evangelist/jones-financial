@@ -1,7 +1,9 @@
 ---
 title: Our Managing Partner Penny Pennington joined Yahoo ...
 url: https://www.instagram.com/reel/DWOjltplZqx/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Jones Financial" press release artificial intelligence'
 position: 4
 source: serpapi-google
