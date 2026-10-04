@@ -26,13 +26,14 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/jones-financial.png
 tags:
-  - Financial-Services
+  - Financial Services
   - Investment Management
   - Wealth Management
 tags_raw:
   - Financial Services
   - Investment Management
   - Wealth Management
+  - Financial-Services
 created: '2026-03-24'
 modified: '2026-04-28'
 specificationVersion: '0.23'
